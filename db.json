@@ -1,8 +1,11 @@
 {
 		"v1": {
 				"result": {
-						"email": 
-                     		{"records": [1, 2, 3]}
+						"email": [
+								{"id": 1,
+								 "msg": "test"
+								}
+						]
 						
 				}
 		}
